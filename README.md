@@ -1,4 +1,4 @@
-# U2IP — URL IP Geolocation Tool
+# U2IP — URL to IP
 
 **U2IP** (Version 1.2) is a lightweight command-line tool written in C that resolves domain names or URLs to IPv4 addresses and fetches server geolocation details. Built using standard POSIX sockets and native libraries, it operates efficiently without external library dependencies.
 
